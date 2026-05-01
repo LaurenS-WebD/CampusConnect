@@ -1,0 +1,36 @@
+<section class="hero">
+    <h2>Find Friends & Roommates on Campus</h2>
+    <p>
+        Campus Connect helps students connect based on shared interests, lifestyle, and preferences.
+    </p>
+</section>
+
+<section class="profiles">
+
+    <h3>Suggested Matches</h3>
+
+    <div class="card-container">
+
+        <div class="card">
+            <h4>Alex, 19</h4>
+            <p><strong>Interests:</strong> Gaming, Music</p>
+            <p><strong>Looking for:</strong> Roommate</p>
+            <button>Connect</button>
+        </div>
+
+        <div class="card">
+            <h4>Sofia, 20</h4>
+            <p><strong>Interests:</strong> Fitness, Coffee</p>
+            <p><strong>Looking for:</strong> Friends</p>
+            <button>Connect</button>
+        </div>
+
+        <div class="card">
+            <h4>Jordan, 21</h4>
+            <p><strong>Interests:</strong> Tech, Basketball</p>
+            <p><strong>Looking for:</strong> Roommate</p>
+            <button>Connect</button>
+        </div>
+
+    </div>
+</section>
