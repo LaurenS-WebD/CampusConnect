@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Events - Campus Connect</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Campus Events</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="events.html">Events</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main class="content">
+
+<table>
+    <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Location</th>
+    </tr>
+    <tr>
+        <td>Club Fair</td>
+        <td>May 5</td>
+        <td>2:00 PM</td>
+        <td>Quad</td>
+    </tr>
+    <tr>
+        <td>Study Night</td>
+        <td>May 8</td>
+        <td>6:00 PM</td>
+        <td>Library</td>
+    </tr>
+    <tr>
+        <td>Game Night</td>
+        <td>May 10</td>
+        <td>7:00 PM</td>
+        <td>Student Center</td>
+    </tr>
+</table>
+
+</main>
+
+<footer>
+    <p>© 2026 Campus Connect</p>
+</footer>
+
+</body>
+</html>
