@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Campus Connect</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header>
+    <h1>About Campus Connect</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="events.html">Events</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main class="content">
+    <p>
+        Campus Connect is a student-focused platform designed to help users find friends and compatible roommates.
+        It matches students based on shared interests, habits, and preferences to make campus life easier and more connected.
+    </p>
+</main>
+
+<footer>
+    <p>© 2026 Campus Connect</p>
+</footer>
+
+</body>
+</html>
